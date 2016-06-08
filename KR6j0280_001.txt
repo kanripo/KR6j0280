@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:14.150874
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 何耶揭唎婆像法
 #+PROPERTY: CBETA_ID T20n1073
 #+PROPERTY: ID KR6j0280
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1073
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0280_T_000-0170b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0280_T_001-0170b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1073[cf.No.901(Fasc.6)]¶
-
- 何耶揭唎婆像法¶
+No. 1073 [cf. No. 901(Fasc. 6)]¶
+何耶揭唎婆像法¶
 ¶
 
 復次取淨褺不得截割。請一畫師最功能。勿¶
@@ -116,8 +115,7 @@ No.1073[cf.No.901(Fasc.6)]¶
 賀耶揭哩婆療病印(二手內縛竪二中指頭。相合並屈二大指。各以二頭指屈¶
 握二大指甲根。頭指甲皆背相著)¶
 
-唵鶻嚕嚧鳩盧馱(去音)那(三)嗚𤙖泮(四)娑嚩¶
-賀¶
+唵鶻嚕嚧鳩盧馱(去音)那(三)嗚𤙖泮(四)娑嚩賀¶
 
 賀耶揭唎婆乞食印(仰左手各竪五指。將右手下向以中指無名指頭。¶
 各各相拄著)¶
