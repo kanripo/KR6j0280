@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:14.150874
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 何耶揭唎婆像法
 #+PROPERTY: CBETA_ID T20n1073
 #+PROPERTY: ID KR6j0280
